@@ -1,3 +1,3 @@
 # portofolio.github.io
 
-Portafolio_pro
+https://andestid.github.io/portofolio.github.io/
